@@ -1,5 +1,5 @@
 Wishing the warm greetings to everyone.
-This is the Discription of ****STUDENTINDUCTION PROGRAM****
+This is the Discription of ****STUDENT INDUCTION PROGRAM****
 | DATE | LECTURE | DESCRIPTION |
 | ----------- | ----------- | ----------- |
 | 09/07/2024 | Gurbani and Kirtan | Some cheerful and enlighten words |
