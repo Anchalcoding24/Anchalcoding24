@@ -6,7 +6,7 @@ This is the Discription of ****STUDENTINDUCTION PROGRAM****
 | 09/07/2024 | Auditorium | Cheerful welcome |
 | 10/07/2024 | Holiday | Off Day |
 | 11/07/2024 | Dr. Arvind Dhingra meet in Auditorium |  He share some words and enlightening thoughts |
-| 11/07/2024 | Dr. Parminder Singh | kkk | 
+| 11/07/2024 | Dr. Parminder Singh | | 
 | 11/07/2024 | Dr. H.S. Rai | He had shared his experiences in the company of Google and insighted the world of coding |
 | 12/07/2024 | UHV Lecture by Prof. Nisha Mam | Indroduction to value Education |
 | 12/07/2024 | Peer Interaction | Working of Canva (an editing app) |
@@ -15,7 +15,7 @@ This is the Discription of ****STUDENTINDUCTION PROGRAM****
 | 15/07/2024 | Mr. Sony Goyal meet in Auditorium | Rules for Success, Convey idea of giving 100 percent and do what you love and love what you do |
 | 15/07/2024 | Mr. Pancham Jai Singh | Give lesson on body language and showed their new invention |
 | 16/07/2024 | Mentor Interaction | Told about faculties of the College Campus |
-| 16/07/2024 | Department Visit | kkk |
+| 16/07/2024 | Department Visit | |
 | 17/07/2024 | UHV Lecture by Prof. Nisha Mam | Harmony in Human Being |
 | 17/07/2024 | Peer Interaction | Told about NCC |
 | 18/07/2024 | Prof. Harpal Singh Pannu meet in Auditorium | Shares the Sakhis* of Shri Guru Nanak Dev Ji |
