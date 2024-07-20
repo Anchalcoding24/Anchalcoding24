@@ -1,6 +1,6 @@
 Wishing the warm greetings to everyone.
 This is the Discription of ****STUDENT INDUCTION PROGRAM****
-| DATE | LECTURE | DESCRIPTION |
+| DATE | LECTURE | DISCRIPTION |
 | ----------- | ----------- | ----------- |
 | 09/07/2024 | Gurbani and Kirtan | Some cheerful and enlighten words |
 | 09/07/2024 | Auditorium | Cheerful welcome |
