@@ -19,7 +19,7 @@ This is the Discription of ****STUDENT INDUCTION PROGRAM****
 | 17/07/2024 | UHV Lecture by Prof. Nisha Mam | Harmony in Human Being |
 | 17/07/2024 | Peer Interaction | Told about NCC |
 | 18/07/2024 | Prof. Harpal Singh Pannu meet in Auditorium | Shares the Sakhis* of Shri Guru Nanak Dev Ji |
-| 18/07/2024 | UHV Lecture by Prof. Nisha Mam | kkk | 
+| 18/07/2024 | UHV Lecture by Prof. Nisha Mam | | 
 | 18/07/2024 | Dr. Harwinder Singh meet in Auditorium | Told about NCC cooperatives |
 | 18/07/2024 | Dr. Jasvir Singh Grewal meet in Auditorium | Highlighted the NSS |
 | 19/07/2024 | Dr. Kanwardeep Kaur meet in Auditorium | Highlighted the importance of C in life and quality of confidence of at the time of placements |
