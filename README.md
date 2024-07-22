@@ -24,6 +24,10 @@ This is the Discription of ****STUDENT INDUCTION PROGRAM****
 | 18/07/2024 | Dr. Jasvir Singh Grewal meet in Auditorium | Highlighted the NSS |
 | 19/07/2024 | Dr. Kanwardeep Kaur meet in Auditorium | Highlighted the importance of C in life and quality of confidence of at the time of placements |
 | 19/07/2024 | Dr. Jaswinder Singh | Proved basic Physics |
+| 19/07/2024 | Seminaar hall and Peer interaction | |
+| 22/07/2024 | Dr. S.B Singh meet in Auditorium | Told about moral values |
+| 22/07/2024 | Dr. Pushpinder Singh meet in Auditorium | Gave motivational speech and some enlightening words | 
+| 22/07/2024 | Sangita Mam meet in Auditorium | Gave speech on environmental issues | 
 
 
 
