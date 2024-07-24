@@ -28,6 +28,11 @@ This is the Discription of ****STUDENT INDUCTION PROGRAM****
 | 22/07/2024 | Dr. S.B Singh meet in Auditorium | Told about moral values |
 | 22/07/2024 | Dr. Pushpinder Singh meet in Auditorium | Gave motivational speech and some enlightening words | 
 | 22/07/2024 | Sangita Mam meet in Auditorium | Gave speech on environmental issues | 
+| 23/07/2024 | Peer Interaction | Told about MS Excel and AI and Machine Learning | 
+| 23/07/2024 | Activity Class by Tania Mam | |
+| 24/07/2024 | Mr. Gauravdeep Singh meet in Auditorium | Told about 3 Rules of Success and some enlightening words of inspiration |
+| 24/07/2024 | Prof. Lakhveer Singh meet in Auditorium | Told about NPTL | 
+| 24/07/2024 | Senior Interaction in Auditorium | Told about Causmic Club | 
 
 
 
