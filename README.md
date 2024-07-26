@@ -33,6 +33,10 @@ This is the Discription of ****STUDENT INDUCTION PROGRAM****
 | 24/07/2024 | Mr. Gauravdeep Singh meet in Auditorium | Told about 3 Rules of Success and some enlightening words of inspiration |
 | 24/07/2024 | Prof. Lakhveer Singh meet in Auditorium | Told about NPTL | 
 | 24/07/2024 | Senior Interaction in Auditorium | Told about Causmic Club | 
-
+| 25/07/2024 | Chemistry class | Basics of Chemistry |
+| 25/07/2024 | UHV class | Group discussion Activity | 
+| 25/07/2024 | Maths Test | |
+| 26/07/2024 | Dr. Kanwalpreet Kaur meet in Auditorium | Told about importance and benefits of Meditation|
+|  26/07/2024 | Cultural performance by students | | 
 
 
